@@ -36,7 +36,7 @@ class Unicycle:
         plt.grid()
         plt.show() 
         #plt.savefig(f"Unicycle_v_{v}_w_{w}.png")
-        print("Plot saved")
+        print("Plot Created")
 
 if __name__ == "__main__":
     print("Unicycle Model Assignment")
